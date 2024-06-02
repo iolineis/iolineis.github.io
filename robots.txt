@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iolineis.github.io/sitemap.html
+Sitemap: https://iolineis.github.io/app/sitemap.html
+Sitemap: https://iolineis.github.io/assets/sitemap.html
+Sitemap: https://iolineis.github.io/includes/sitemap.html
+Sitemap: https://iolineis.github.io/src/sitemap.html
